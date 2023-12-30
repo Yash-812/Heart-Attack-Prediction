@@ -1,4 +1,3 @@
-CSP571Project
 **Heart Dataset Analysis**
 In this project, we have processed the heart dataset, which contains the data of symptoms of the patients. We performed the Exploratory Data Analysis (EDA) to analyze and gain insights into the dataset. We plotted 
 the distplot and countplot for the numerical and the categorical variables, respectively, together with a heatmap to summarize the overall correlation of the variables.
